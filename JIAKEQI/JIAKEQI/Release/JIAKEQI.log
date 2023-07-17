@@ -1,0 +1,9 @@
+﻿  CTool.cpp
+C:\Users\KingWang\Desktop\15Pb\所有项目\王昊-加壳器项目\JIAKEQI\JIAKEQI\CTool.cpp(182,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\KingWang\Desktop\15Pb\所有项目\王昊-加壳器项目\JIAKEQI\JIAKEQI\CTool.cpp(232,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 225 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  JIAKEQI.vcxproj -> C:\Users\KingWang\Desktop\15Pb\所有项目\王昊-加壳器项目\JIAKEQI\Release\JIAKEQI.exe
